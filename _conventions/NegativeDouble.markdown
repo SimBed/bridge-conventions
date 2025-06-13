@@ -22,22 +22,29 @@ Most commonly used by responder to show an unbid major with a hand not suitable 
 
 #### Hearts Showing Negative Double
 
- <img src="/assets/images/negative_double_hearts_showing.png">
+ <img src="{{ '/assets/images/negative_double_hearts_showing.png' | relative_url }}">
 
  *Note the double in this context shows 4+<font style='color:red;'>&hearts;</font>s*
 <br><br>
 
 #### Minors Showing Negative Double
 
- <img src="/assets/images/negative_double_minors_showing.png">
+ <img src="{{ '/assets/images/negative_double_minors_showing.png' | relative_url }}"> 
 
  <br>
 
 #### Misleading Negative Double
 
- <img src="/assets/images/negative_double_error.png">
+ <img src="{{ '/assets/images/negative_double_error.png' | relative_url }}"> 
 
  *North's double denies spade support*
+<br><br> 
+
+#### Robot Nuance
+
+ <img src="{{ '/assets/images/negative_double_robot_nuance.png' | relative_url }}"> 
+
+ *With 10 points and a 5 card major, I'd expect 2&spades; rather than a negative double (perhaps the robot down-graded its weak 10 count)*
 <br><br> 
 
 [bridgebum source](https://www.bridgebum.com/negative_double.php)

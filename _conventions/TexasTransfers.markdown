@@ -26,7 +26,7 @@ With 6+ of a major and slam interest, start with a Jacoby Transfer and follow up
 
 ### Avoiding Texas with 6+ and slam interest
 
- <img src="/assets/images/transfer_mild_slam_try.png" style="width:60%;">
+ <img src="{{ '/assets/images/support_redouble.png' | relative_url }}" style="width:60%;">
 
  *note Texas (which would show **no** slam interest) has not been used*
 

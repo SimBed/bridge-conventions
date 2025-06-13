@@ -11,5 +11,5 @@ title: "Splinter"
 
 #### An overlooked single jump splinter
 
- <img src="/assets/images/splinter_blunder.jpg" class='image50'>
+ <img src="{{ '/assets/images/splinter_blunder.jpg' | relative_url }}">
 

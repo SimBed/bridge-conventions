@@ -23,7 +23,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown-1">
             {% for convention in site.conventions %}
             <li>
-              <a class="dropdown-item" href="{{ convention.url }}">{{ convention.title }}</a>
+              <a class="dropdown-item" href="{{ convention.url | relative_url }}">{{ convention.title }}</a>
             </li>            
             {% endfor %}           
               <hr class="dropdown-divider">
@@ -33,7 +33,7 @@
             {% for wip in site.wips %}              
               {% if wip.category == "wip" %}          
                 <li>
-                  <a class="dropdown-item" href="{{ wip.url }}">{{ wip.title }}</a>
+                  <a class="dropdown-item" href="{{ wip.url | relative_url }}">{{ wip.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}              
@@ -44,7 +44,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown-2">
             {% for hand in site.hands %}
             <li>
-              <a class="dropdown-item" href="{{ hand.url }}">{{ hand.title }}</a>
+              <a class="dropdown-item" href="{{ hand.url | relative_url }}">{{ hand.title }}</a>
             </li>            
             {% endfor %}                   
           </ul>

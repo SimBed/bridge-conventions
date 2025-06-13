@@ -16,7 +16,8 @@ title: "Transfers"
 
 ### Incorrect Bidding Example
 
- <img src="/assets/images/transfer_incorrect.png" style="width:60%;">
+ <img src="{{ '/assets/images/transfer_incorrect.png' | relative_url }}" style="width:60%;">  
+
 
  West's 4&spades; risks a 7 card fit. 3NT instead allows East to determine the final game contract aware that partner has the points for game and exactly 5 spades. (Stayman for 4, Texas for 6+ were not used).
  The 4&spades; bid should mean 6+&spades;s and slam interest.
@@ -24,7 +25,7 @@ title: "Transfers"
 
 ### Robot apprach to bypassing 3NT
 
- <img src="/assets/images/transfer_mild_slam_try.png" style="width:60%;">
+ <img src="{{ '/assets/images/transfer_mild_slam_try.png' | relative_url }}" style="width:60%;">   
 
  *note Texas (which would show **no** slam interest) has not been used*
 

@@ -3,6 +3,6 @@ layout: post
 title: "7NT +4"
 ---
 
-<img src="/assets/images/7NT.png">
+<img src="{{ '/assets/images/7NT.png' | relative_url }}">
 
 

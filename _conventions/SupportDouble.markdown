@@ -132,13 +132,13 @@ same hands as above
 
 #### Support Redouble
 
- <img src="/assets/images/support_redouble.png">
+ <img src="{{ '/assets/images/support_redouble.png' | relative_url }}">
 
 <br>
 
 #### Incorrect Raise (Missed Support Redouble)
 
- <img src="/assets/images/missed_support_redouble.png">
+ <img src="{{ '/assets/images/missed_support_redouble.png' | relative_url }}"> 
 
  North's 2<font style='color:red;'>&hearts;</font> incorrectly shows exactly 4<font style='color:red;'>&hearts;</font>s. Redouble would show 3<font style='color:red;'>&hearts;</font>s. South now wrongly supposes an 8 card <font style='color:red;'>&hearts;</font> fit has been found.
 

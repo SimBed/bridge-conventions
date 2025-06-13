@@ -5,4 +5,4 @@ title: "Weak Suit Overcall"
 
 ### Robot overcalls with 5 card suit from the 8
 
-<img src="/assets/images/weak_suit_overcall.png">
+<img src="{{ '/assets/images/weak_suit_overcall.png' | relative_url }}">
