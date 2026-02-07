@@ -87,7 +87,7 @@ weak (7-9) points and 4 card support isn't represented in this convention, so de
 
 ## In Competition
 
-<hr style="border:0.2rem solid gray">
+<hr id='#in-competition' style="border:0.2rem solid gray">
 <br>
 
 ### Single Raise

@@ -38,12 +38,21 @@ eg 1<font style='color:red;'>&diams;</font>-1&spades;2<font style='color:red;'>&
 
 <br>
 
-### In response to parner's overcalled opening <small>(Unassuming)</small>
+### In response to partners overcalled opening <small>(Unassuming)</small>{: #unassuming}
 
 | Partner | Overcall | Response | Meaning
 | ----------- | ----------- | ----------- | ----------- |
 | 1<font style='color:red;'>&hearts;</font> | 2<font style='color:black;'>&clubs;</font> | 3<font style='color:black;'>&clubs;</font> | 3+<font style='color:red;'>&hearts;</font>s, 10+ points
 | 1&clubs; | 1&spades; | 2&spades; | 4+&clubs;s, 10+ points
+
+
+This then allows a competitive raise to be pre-emptive:
+
+| Partner | Overcall | Response | Meaning
+| ----------- | ----------- | ----------- | ----------- |
+| 1<font style='color:red;'>&hearts;</font> | 2<font style='color:black;'>&clubs;</font> | 3<font style='color:red;'>&hearts;</font> | very weak, unbalanced, 4+<font style='color:red;'>&hearts;</font>s
+| 1&clubs; | 1&spades; | 3&clubs; | very weak (0-6 points), 5+ card support <small> (consistent with <a href="InvertedMinor.html#in-competition">inverted minor in competition</a>)</small>
+
 
 <br>
 

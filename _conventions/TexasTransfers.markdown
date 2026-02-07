@@ -24,10 +24,4 @@ With 6+ of a major and slam interest, start with a Jacoby Transfer and follow up
 <br><br>
 1NT-4<font style='color:red;'>&hearts;-</font>4&spades;-4NT (...i probably should have used a Jacoby Transfer earlier, but RKCB, spades trumps).
 
-### Avoiding Texas with 6+ and slam interest
-
- <img src="{{ '/assets/images/support_redouble.png' | relative_url }}" style="width:60%;">
-
- *note Texas (which would show **no** slam interest) has not been used*
-
 
